@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am Kartiik Singh living in Germany. Currently I am pursuing my masters in Cybersecurity and Business Management. I am leaning Gen AI for now.:>
+
 
 <!--
 **Kartik0074/Kartik0074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
