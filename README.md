@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Kartiik Singh living in Germany. Currently I am pursuing my masters in Cybersecurity and Business Management. I am leaning Gen AI for now.:>
+I am Kartiik Singh living in Berlin, Germany. Currently, I am pursuing my masters degree in Cybersecurity and Business Management at Gisma Univerity of Applied Sciences. Besides that, I'm interested in building AI agents.
 
 
 <!--
